@@ -1,105 +1,82 @@
-👋 Hi there! I'm Ebtihaj Abdullah, a passionate DevOps and Cloud Engineer with a knack for building scalable and efficient systems.
-🥸 Also a part-time AI R&D professional
----
+### Hi, I'm Ebtihaj 👋
 
-🚀 **What I Do:**
+Platform engineer building the cloud, data and evaluation layers behind production AI agents. Data Science Master's student (MIAGE, EIT Digital Master School, Université de Rennes). Based in Rennes, France.
 
-* ☁️ **Cloud Expertise:** Proficient in Azure, AWS, Docker, Terraform
-* ⚙️ **DevOps Automation:** I automate workflow tasks (achieving up to 300% efficiency!), manage end-to-end CircleCI CI/CD pipelines, and integrate them with Jira for streamlined project management.
-* 📊 **Monitoring & Logging:** Automated logs visualization and retention using Grafana, Promtail, Loki, and S3.
-* 🤖 **AI/ML Integration:** Deployed AI-enabled agriculture disease prevention systems on Azure and conducted research on protecting smart grids using deep learning. I've also developed deep learning models for harassment detection and AI-based systems for crop and weed detection.
-* 🐍 **Scripting & Infrastructure:** Extensive work with Bash, SSH, Docker.
+- 🔭 **Now:** Forward Deployed Platform Engineer (Cloud & Agentic AI) at [Five-Whys](https://five-whys.com)
+- 🧪 **Building:** the test harness that gates AI-agent releases: simulated users, a double-pass LLM judge, guardrail and safety metrics, GO/NO-GO release gate
+- 🎓 **Studying:** Data Science at Université de Rennes
+- 📚 **Learning:** Kubernetes administration (CKA)
 
 ---
 
-💡 **Key Projects & Contributions:**
+#### What I work on
 
-* Automated workflow tasks by 300% at Insight Technologies.
-* Managed and deployed end-to-end CircleCI CI/CD pipelines.
-* Developed a deep learning model using BERT to detect subtle harassment in social media texts.
-* Built and deployed a multi-tier app architecture on Azure using ARM templates.
+**☁️ Cloud & infrastructure as code.** Multi-tenant AWS on CDK and CloudFormation, 100% version-controlled and shipped through GitHub Actions. Cut Lambda latency by 30% and saved thousands of USD in compute and API costs.
 
----
+**🤖 AI evaluation & observability.** Every simulated conversation is scored on 3 independent signals (correct path, goal reached, reply quality), with 5 deterministic guardrail checks, 3 safety metrics, and multilingual and image-based test personas.
 
-📚 **Education & Certifications:**
+**🗄️ Data & compliance.** GDPR- and HIPAA-aligned retention across relational, key-value, graph and object stores, with a sealed write-locked archive, audited right-to-erasure on a 30-day clock, and a per-tenant off / dry-run / on switch.
 
-* BSc Computer Systems Engineering from UET Peshawar (CGPA 3.71/4.0).
-* Microsoft Azure Fundamentals Certified (AZ-900).
+**📈 Analytics & ETL.** A pipeline that turns customer conversations into user-level events and conversion paths using Neo4j and LLM-based parsing. Conversion metrics are computed on demand in ~150 ms for 10,000 users.
+
+**🛠️ Developer tooling.** Leading a cross-platform Go CLI covering 300+ platform API operations, with MFA sign-in, multiple profiles, JSON output, dry-runs and self-update.
 
 ---
 
-🌟 **Leadership & Extracurricular Activities:**
+#### Projects
 
-* Lead @ Google Developers Student Clubs (2023-24)
-* Lead @ Design Baithak UET Peshawar (2023-34)
-* Senior Vice President @ Computer Society ACM Chapter UET Peshawar (2023-24)
-* Alpha Microsoft Learn Student Ambassadors UET Peshawar (2023-24)
-* President (UET Peshawar) and Regional Director @ Artificial Intelligence Community of Pakistan (2023-24)
-
----
-
-🛠️ **Tech Stack:**
-
-Here are some of the technologies and tools I work with:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Promtail-6458CC?style=for-the-badge&logo=grafana&logoColor=white" alt="Promtail" />
-  <img src="https://img.shields.io/badge/Loki-9700C1?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Cron_Jobs-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Cron Jobs" />
-  <img src="https://img.shields.io/badge/SSH-2DA826?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
-  <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/HCL-408EF6?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/Assembly-666666?style=for-the-badge&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/AI-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Odoo-7C2AD0?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/PIC-000000?style=for-the-badge&logoColor=white" alt="PIC" />
-  <img src="https://img.shields.io/badge/FPGA-2C3E50?style=for-the-badge&logoColor=white" alt="FPGA" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1A1B1C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-303030?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+| Project | What it is |
+|---|---|
+| [**BillHisab**](https://billhisab.com) | Free utility-bill calculators for Pakistani households: NEPRA slab electricity estimates for every DISCO including K-Electric, SNGPL/SSGC gas, and solar payback over 25 years. Runs entirely in the browser. |
+| **SchoolSys** | Laravel 7 → 12 / PHP 8.4 modernisation on Docker (FrankenPHP, PostgreSQL 16, Redis). Fee-invoice page went from 16,023 queries and 5.6 s to 11 queries and 48 ms. |
+| **Shizuka** | A deliberately simple, AI-free productivity tracker. |
+| **Salat Streak Keeper** | Logs the 5 daily prayers and keeps current and best streaks. Next.js on Firebase. |
+| [Terraform-Dev-Environments](https://github.com/Ibtihaj-Abdullah/Terraform-Dev-Environments) | QA, Dev and Prod environments on AWS with a remote state file. |
+| [Automated-WebApp-Azure-ARM-Template](https://github.com/Ibtihaj-Abdullah/Automated-WebApp-Azure-ARM-Template) | ARM template that deploys an app on Azure App Service. |
 
 ---
 
-🔭 **Currently Learning:**
+#### Research
 
-* Golang
-* Terraform
-* Kubernetes
-* Quantum Computing (Quantum Annealing and Gate Based Universal QC)
+- **Corpus of Human Labelled Indirect Harassment**, 19th International Conference on Emerging Technologies (ICET), Nov 2024. A 10,700-entry dataset for indirect and double-meaning harassment, with a BERT detector.
+- **Comparative Study on Harassment Stance Detection Using Social Media Texts Through Deep Learning Methods**, International Conference on Innovations in Computing Technologies and Information Sciences, Apr 2024.
+- **Mint and Surrounding Weeds Detection Using Artificial Intelligence**, 2nd International Conference on Computing Technologies, Tools and Applications, Jun 2024. YOLOv5, over 85% accuracy.
+- **Disease Classification of Tomato Plant Leaves Using Image Processing and Machine Learning Techniques**, 1st International Conference on Computing Technologies, Tools and Applications, May 2023. HOG + SVM, 92% accuracy.
+- Research on protecting smart grids against adversarial attacks, for IEEE Access.
 
 ---
 
-📫 **Let's Connect!**
+#### Stack
 
-* LinkedIn: [linkedin.com/in/ebtihaj-abdullah/](https://www.linkedin.com/in/ebtihaj-abdullah/)
-* Email: ebtihaj.abdullah@outlook.com
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+<br>
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+#### Community
+
+GDSC Lead · ACM UET Peshawar Senior VP · Microsoft Learn Student Ambassador (Alpha) · President & Regional Director, AI Community of Pakistan · Design Baithak Lead (2023–24) · General Secretary, DCSE Alumni Association (2025)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/ebtihaj-abdullah/) · [ebtihaj.abdullah@outlook.com](mailto:ebtihaj.abdullah@outlook.com) · [Portfolio](https://ebtihaj.framer.website)
