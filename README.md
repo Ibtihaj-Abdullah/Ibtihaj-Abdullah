@@ -5,7 +5,7 @@ Platform engineer building the cloud, data and evaluation layers behind producti
 - 🔭 **Now:** Forward Deployed Platform Engineer (Cloud & Agentic AI) at [Five-Whys](https://five-whys.com)
 - 🧪 **Building:** the test harness that gates AI-agent releases: simulated users, a double-pass LLM judge, guardrail and safety metrics, GO/NO-GO release gate
 - 🎓 **Studying:** Data Science at Université de Rennes
-- 📚 **Learning:** Kubernetes administration (CKA)
+- 📚 **Learning:** Kubernetes and Scaleway
 
 ---
 
