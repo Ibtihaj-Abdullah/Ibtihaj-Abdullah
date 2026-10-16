@@ -2,7 +2,7 @@
 
 Platform engineer: cloud infrastructure, data pipelines and release tooling for production AI agents. Data Science Master's student (MIAGE, EIT Digital Master School, Université de Rennes). Based in Rennes, France.
 
-- 🔭 **Now:** Forward Deployed Platform Engineer (Cloud & Agentic AI) at [Five-Whys](https://five-whys.com)
+- 🔭 **Now:** Forward Deployed Platform Engineer (Cloud & Agentic AI) at [5.Y](https://five-whys.com)
 - 🛠️ **Building:** infrastructure as code on AWS, a Go developer CLI, and the test harness that gates AI-agent releases
 - 🎓 **Studying:** Data Science at Université de Rennes
 - 📚 **Learning:** Kubernetes and Scaleway
