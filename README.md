@@ -1,9 +1,9 @@
 ### Hi, I'm Ebtihaj 👋
 
-Platform engineer building the cloud, data and evaluation layers behind production AI agents. Data Science Master's student (MIAGE, EIT Digital Master School, Université de Rennes). Based in Rennes, France.
+Platform engineer: cloud infrastructure, data pipelines and release tooling for production AI agents. Data Science Master's student (MIAGE, EIT Digital Master School, Université de Rennes). Based in Rennes, France.
 
 - 🔭 **Now:** Forward Deployed Platform Engineer (Cloud & Agentic AI) at [Five-Whys](https://five-whys.com)
-- 🧪 **Building:** the test harness that gates AI-agent releases: simulated users, a double-pass LLM judge, guardrail and safety metrics, GO/NO-GO release gate
+- 🛠️ **Building:** infrastructure as code on AWS, a Go developer CLI, and the test harness that gates AI-agent releases
 - 🎓 **Studying:** Data Science at Université de Rennes
 - 📚 **Learning:** Kubernetes and Scaleway
 
@@ -11,15 +11,15 @@ Platform engineer building the cloud, data and evaluation layers behind producti
 
 #### What I work on
 
-**☁️ Cloud & infrastructure as code.** Multi-tenant AWS on CDK and CloudFormation, 100% version-controlled and shipped through GitHub Actions. Cut Lambda latency by 30% and saved thousands of USD in compute and API costs.
+**☁️ Cloud & infrastructure as code.** Multi-tenant AWS on CDK and CloudFormation, 100% version-controlled and shipped through GitHub Actions. Cut Lambda latency by 30% and saved thousands of USD in compute and API costs. Also AWS EC2, DigitalOcean and Contabo bare-metal servers on Ubuntu Server.
 
-**🤖 AI evaluation & observability.** Every simulated conversation is scored on 3 independent signals (correct path, goal reached, reply quality), with 5 deterministic guardrail checks, 3 safety metrics, and multilingual and image-based test personas.
-
-**🗄️ Data & compliance.** GDPR- and HIPAA-aligned retention across relational, key-value, graph and object stores, with a sealed write-locked archive, audited right-to-erasure on a 30-day clock, and a per-tenant off / dry-run / on switch.
+**🗄️ Data & compliance.** GDPR- and HIPAA-aligned retention and archival across relational, key-value, graph and object stores, with audited right-to-erasure and an opt-in rollout per tenant.
 
 **📈 Analytics & ETL.** A pipeline that turns customer conversations into user-level events and conversion paths using Neo4j and LLM-based parsing. Conversion metrics are computed on demand in ~150 ms for 10,000 users.
 
-**🛠️ Developer tooling.** Leading a cross-platform Go CLI covering 300+ platform API operations, with MFA sign-in, multiple profiles, JSON output, dry-runs and self-update.
+**🛠️ Developer tooling.** Leading a cross-platform Go CLI covering 300+ platform API operations for engineers and AI agents.
+
+**🤖 AI evaluation.** A test harness that gates AI-agent releases: simulated conversations scored by a double-pass LLM judge, deterministic guardrails and safety metrics, with multilingual and image-based test personas and a GO/NO-GO release gate.
 
 ---
 
