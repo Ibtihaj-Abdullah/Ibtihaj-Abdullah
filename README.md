@@ -79,4 +79,4 @@ GDSC Lead · ACM UET Peshawar Senior VP · Microsoft Learn Student Ambassador (A
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/ebtihaj-abdullah/) · [ebtihaj.abdullah@outlook.com](mailto:ebtihaj.abdullah@outlook.com) · [Portfolio](https://ebtihaj.framer.website)
+📫 [LinkedIn](https://www.linkedin.com/in/ebtihaj-abdullah/) · [hi@ebtihaj.dev](mailto:hi@ebtihaj.dev) · [ebtihaj.dev](https://ebtihaj.dev)
